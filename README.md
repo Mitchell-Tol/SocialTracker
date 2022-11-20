@@ -2,6 +2,11 @@
 
 ## socialtracker-fe
 
+### Move into front-end folder
+```
+cd socialtracker-fe
+```
+
 ### Project setup
 ```
 npm install
